@@ -17,7 +17,7 @@
 -- both low fat AND recyclable.
 -- Return the result table in any order.
 
--- Solution
+-- Solution-
 SELECT product_id
 FROM Products
 WHERE low_fats = 'Y' 
